@@ -1,4 +1,61 @@
+#header {background-color: #bdc3c7;
+width: 450px; margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;}
+
+
 p {text-align: center;
 	color: red;
-
+	line-height: 30px;
+	font-family: "Times New Roman", Times, Serif; 
+	color: #ecf0f1;
+	width: 400px;
+	margin-left: auto;
+    margin-right: auto;
 }
+
+#slogan {color: #ecf0f1;
+font-style: italic;}
+
+#description  {background-color: #c0392b;
+	width: 450px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#beer  {background-color: #c0392b;
+	width: 200px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#food  {background-color: #c0392b;
+	width: 200px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1, h2 {font-family: 'Amatic SC', cursive;
+        text-align: center;
+        margin-bottom: 5px;
+        color: #2c3e50;}
+ 
+img {width: 40px;
+ 	height: 40px;}
+
+hr {width: 200px;
+margin-top: 0px;}
+
+ul {text-align: center;
+list-style-type: none;
+padding-left: 0px;
+color: #ecf0f1;
+font-family: "Times New Roman", Times, Serif;}
+
+a {text-align: center;
+color: #2c3e50;}
+
+body {text-align: center;
+background-color: #e74c3c;}
