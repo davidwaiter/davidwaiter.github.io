@@ -1,23 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+
+@import url(http://fonts.googleapis.com/css?family=Fondamento);
+
 body {text-align: center;
 background-color: #ccc;
 margin-top: 0px;
-margin-bottom: auto;}
+margin-bottom: auto;
+background-image: url(http://www.sidearmer.com.php53-12.ord1-1.websitetestlink.com/assets/uploads/2014/08/beer-glasses.jpg);
+}
 
 
 #header {background-color: #bdc3c7;
-width: 450px; margin-left: auto;
+    width: 600px; margin-left: auto;
     margin-right: auto;
     border-radius: 10px;}
 
 .wrapper { background-color: #e74c3c; 
            width: 750px;
            margin: 0 auto;
-           border-radius: 20px;}
+           border-radius: 20px;
+           opacity: .95;}
 
 p {text-align: center;
 	color: red;
-	line-height: 30px;
-	font-family: "Times New Roman", Times, Serif; 
+	line-height: 25px;
+	font-family: 'Fondamento', cursive; 
 	color: #ecf0f1;
 	width: 400px;
 	margin-left: auto;
@@ -47,7 +54,23 @@ font-style: italic;}
 	margin-left: auto;
 	margin-right: auto;
 }
-h1, h2 {font-family: 'Amatic SC', cursive;
+
+#contact { background-color: #c0392b;
+	       width: 450px; 
+	       margin-left: auto;
+	       margin-right: auto;
+	       border-radius: 20px;
+}
+
+#button {background-color: #2c3e50;
+border-radius: 20px;
+font-size: 20px;
+margin: 0px;
+border: 0px;
+font-family: 'Rock Salt', cursive;}
+
+
+h1, h2 {font-family: 'Rock Salt', cursive;
         text-align: center;
         margin-bottom: 5px;
         color: #2c3e50;}
@@ -62,7 +85,7 @@ ul {text-align: center;
 list-style-type: none;
 padding-left: 0px;
 color: #ecf0f1;
-font-family: "Times New Roman", Times, Serif;}
+font-family: 'Fondamento', cursive;}
 
 a {text-align: center;
 color: #2c3e50;}
